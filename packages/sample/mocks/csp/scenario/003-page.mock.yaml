@@ -1,0 +1,10 @@
+request:
+  method: GET
+  path: /v1/users/:name
+response:
+  status: 200
+---
+Something goes here as well. Lorem Ipsum cit amet I don't remember how the rest
+goes.
+
+Now here are lines

@@ -1,0 +1,5 @@
+request:
+  method: POST
+  path: /v1/:resource
+response:
+  status: 200

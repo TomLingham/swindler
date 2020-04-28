@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`mock schema requestSchema 'path' is required 1`] = `
+Array [
+  "path is a required field",
+]
+`;
+
+exports[`mock schema requestSchema normalization 1`] = `
+Object {
+  "method": "GET",
+  "path": "/",
+}
+`;
+
+exports[`mock schema responseSchema normalization 1`] = `
+Object {
+  "headers": Object {},
+  "status": 200,
+}
+`;

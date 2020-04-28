@@ -1,0 +1,13 @@
+request:
+  method: GET
+  path: /api/:resource
+response:
+  status: 200
+  headers:
+    Content-Type: "application/json"
+---
+{
+  foo: "bar",
+  test: "foo",
+  users: ["john", "lila", "sam", "darryl", "tom", "sarah"],
+}
